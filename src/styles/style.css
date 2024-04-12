@@ -1,0 +1,24 @@
+body{
+    background-color:grey;
+}
+
+.app{
+    width: 500px;
+    background-color: white;
+    margin:auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 12.5px;
+    padding-right: 12.5px;
+    border-radius: 12.5px;
+}
+
+.app h5, .app p, .app h3{
+    text-align: start;
+    
+}
+
+.accordion--header{
+    display: flex;
+    flex-direction: row;
+}
