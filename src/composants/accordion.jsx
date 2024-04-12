@@ -53,9 +53,9 @@ export default function Accordion(){
                    
                 </div>
 
-                {/* {selected.includes(item.id) ? (<div className="accordion--body">
+                {selected.includes(item.id) ? (<div className="accordion--body">
                     <p>{item.description}</p>
-                </div>):null} */}
+                </div>):null}
 
             </div>)
            
